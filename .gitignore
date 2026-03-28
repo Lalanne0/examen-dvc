@@ -1,2 +1,9 @@
 /venv
 /clean_data.csv
+.env
+.venv
+venv/
+__pycache__/
+data/raw/raw.csv
+models/*.pkl
+metrics/*.json
